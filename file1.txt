@@ -1,3 +1,4 @@
 one 
 gomeeeeeeeeeeeeeeeeeeez
 this is a test for git reset
+git --soft
